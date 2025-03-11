@@ -1,1 +1,1 @@
-# Hello.
+print("i hate github")
